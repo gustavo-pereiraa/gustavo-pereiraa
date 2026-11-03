@@ -43,9 +43,30 @@
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Cantinho Santos**](https://github.com/gustavo-pereiraa/demo-lanchonete)<br>[▶ Testar demo](https://gustavo-pereiraa.github.io/demo-lanchonete/) | Sistema de pedidos em produção para uma lanchonete: cardápio online, Kanban de pedidos, comanda de cozinha e fechamento de faturamento | Flask, PostgreSQL, JS |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://gustavo-pereiraa.github.io/demo-lanchonete/admin">
+        <img src="https://raw.githubusercontent.com/gustavo-pereiraa/demo-lanchonete/main/docs/pedidos-kanban.webp" alt="Painel de pedidos"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Cantinho Santos</h3>
+      <p>Sistema de pedidos em produção para uma lanchonete: cardápio online, Kanban de pedidos, comanda de cozinha e fechamento de faturamento.</p>
+      <p><b>Como testar:</b> faça um pedido no cardápio e depois abra o painel da loja, acrescentando <code>/admin</code> ao endereço, para ver o pedido chegar.</p>
+      <p>
+        <a href="https://gustavo-pereiraa.github.io/demo-lanchonete/"><img src="https://img.shields.io/badge/Cardápio-B5401E?style=for-the-badge"/></a>
+        <a href="https://gustavo-pereiraa.github.io/demo-lanchonete/admin"><img src="https://img.shields.io/badge/Painel_%2Fadmin-D97706?style=for-the-badge"/></a>
+        <a href="https://github.com/gustavo-pereiraa/demo-lanchonete"><img src="https://img.shields.io/badge/Código-30363D?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
