@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Cantinho Santos (demo)** | Sistema de pedidos em produção para uma lanchonete: cardápio online, Kanban de pedidos, comanda de cozinha e fechamento de faturamento | Flask, PostgreSQL, JS |
+| [**Cantinho Santos**](https://github.com/gustavo-pereiraa/demo-lanchonete)<br>[▶ Testar demo](https://gustavo-pereiraa.github.io/demo-lanchonete/) | Sistema de pedidos em produção para uma lanchonete: cardápio online, Kanban de pedidos, comanda de cozinha e fechamento de faturamento | Flask, PostgreSQL, JS |
 
 ---
 
