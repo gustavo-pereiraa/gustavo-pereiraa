@@ -1,7 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Gustavo%20Rocha%20Pereira&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20%26%20BI%20%7C%20Ci%C3%AAncia%20de%20Dados&descAlignY=58&descSize=16" width="100%"/>
-</p>
+<h1 align="center">Gustavo Rocha Pereira</h1>
+<p align="center"><b>Desenvolvedor Web & BI | Ciência de Dados</b></p>
 
 <!-- Texto digitando -->
 <p align="center">
@@ -12,12 +10,7 @@
 
 <!-- Badges de contato -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-rocha-pereira-3068983bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gutorochapereira05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gustavo-rocha-pereira-3068983bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:gutorochapereira05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -59,15 +52,5 @@
 ## Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavo-pereiraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pereiraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=gustavo-pereiraa&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- Rodapé -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 </p>
